@@ -1,0 +1,64 @@
+/* estilos ddel body */
+body{
+  /*  background: #72b9ab;   fallback for old browsers 
+background: -webkit-linear-gradient(to right, #7fda64, #c03939);  /* Chrome 10-25, Safari 5.1-6 
+background: linear-gradient(to right, #4b4f44, #111f1c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-image: url(../Multimedia/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+/* Estilos del contenedor */
+.container{
+    margin-top: 15px;
+}
+/* Estilos de los cards */
+.card{
+    margin:10px;
+    text-align: center;
+    padding: 20px;
+    height: auto;
+    margin-top: 15%;
+    background-image: url(../Multimedia/fondo2.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+/* estilos de un boton */
+.btn {
+    /* width: 12%; */
+    /* float: right; */
+    transform: translate(-32%, 83%);
+}
+.suprm{
+    margin-left: 9%;
+}
+/* boton agregar */
+.agreg{
+    margin-left: 16%;
+}
+.button{
+    transform: translate(13%, 15%);
+}
+h4{
+    padding: 10px;
+    background-color: rgba(240, 248, 255, 0.445);
+}
+.close{
+    transform: translate(13%, 15%);
+
+}
+
+.cash{
+    transform: translate(13%, 15%);
+    margin: 3%;
+}
+p{
+    background-color: rgba(240, 248, 255, 0.445);
+    margin: 0;
+    width: 40%;
+    transform: translate(99%, 53%);
+}
+
+.consu{
+    margin-top: 5% !important;
+}
